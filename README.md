@@ -7,4 +7,5 @@ Ferramentas de controle de versão:
 * Clear Case
 * SVN
 * Mercurial
+* Perforce
 * Git
